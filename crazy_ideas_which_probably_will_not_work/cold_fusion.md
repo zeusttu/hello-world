@@ -18,7 +18,7 @@ This immediately rules out anything resembling the former mechanism from working
 
 The latter, however, could *maybe* work in a way, albeit within a molecule.
 I don't really know the electron orbits within a hydrogen molecule, but I imagine there *might* be a localised orbit in between the two nuclei, which can support both of the molecule's electrons if they are excited to the right energy level.
-Based on [Falstad's ionic hydrogen orbital viewer](http://www.falstad.com/qmmo/), the "sigma g 2pz" orbit looks like a good candidate for this.
+Based on [Falstad's ionic hydrogen orbital viewer](https://www.falstad.com/qmmo/), the "sigma g 2pz" orbit looks like a good candidate for this.
 I'm not sure if the same orbital exists for a second electron which would turn it into a molecule, but I would presume it does, albeit at a higher energy level due to electrostatic electron-electron repulsion.
 Exciting both electrons to that orbital would in turn be possible with a laser of the right wavelength (possibly dual wavelengths are needed due to the different energy levels for exciting the first or one more electron).
 
